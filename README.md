@@ -2,14 +2,9 @@
 
 **Free, open-source invoice generation that lives inside your spreadsheet.**
 
-# Automated Google Sheets Invoice Generator
 
-Turn a simple work log into a finished PDF invoice in one click.
+👉 Create your own copy: [Make a copy](https://docs.google.com/spreadsheets/d/1w2vEtcL-dl80uVG3A9Sfxp_RbMyxONCYUQILAT8_wT0/copy)
 
-No subscriptions. No SaaS accounts. Your data stays in your Google Drive.
-
-👉 Create your own copy:
-https://docs.google.com/spreadsheets/d/1w2vEtcL-dl80uVG3A9Sfxp_RbMyxONCYUQILAT8_wT0/copy)](https://docs.google.com/spreadsheets/d/1w2vEtcL-dl80uVG3A9Sfxp_RbMyxONCYUQILAT8_wT0/copy
 
 ---
 
